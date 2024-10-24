@@ -36,7 +36,6 @@ a {
 }
 
 a:hover {
-    color: #ff6600;
-    text-decoration: underline;
+    color: #red;
 }
 
