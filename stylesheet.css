@@ -12,11 +12,18 @@ body {
 }
 
 #introduction {
-    background-color: #blue;
-    color: #green;
+    background-color: #F5F5F5;
+    color: #6A5ACD;
 }
 #play {
-    background-color: #blue;
-    color: #red;
+    background-color: #EEE8AA;
+    color: #BC8F8F;
+}
+a:hover {
+    color: #ff6600;
+}
+a{
+    color: #0066cc;
+    text-decoration: none;
 }
 
