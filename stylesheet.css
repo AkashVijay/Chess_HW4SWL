@@ -3,27 +3,38 @@ body {
     margin: 0;
     padding: 0;
 }
-.content{
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+.content {
     margin: 20px;
     padding: 20px;
-    background-color: #whitesmoke;
-    border: 1px solid #black; 
-    border-radius: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
 }
 
-#introduction {
-    background-color: #F5F5F5;
-    color: #6A5ACD;
+#intro {
+    background-color: #f9f9f9;
+    color: #333;
 }
+
+
 #play {
-    background-color: #EEE8AA;
-    color: #BC8F8F;
+    background-color: #e8f5e9;
+    color: #444;
 }
-a:hover {
-    color: #ff6600;
-}
-a{
+
+a {
     color: #0066cc;
     text-decoration: none;
+}
+
+a:hover {
+    color: #ff6600;
 }
 
