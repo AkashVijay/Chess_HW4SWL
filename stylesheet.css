@@ -31,7 +31,8 @@ header {
 
 a {
     color: #0066cc;
-    text-decoration: none;
+    text-decoration: underline; 
+    font-weight: bold; 
 }
 
 a:hover {
